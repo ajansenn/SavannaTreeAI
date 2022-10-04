@@ -1,5 +1,5 @@
 # Savanna Tree AI
-![Tree](/TreeDetectron2.jpg)
+![](https://github.com/ajansenn/SavannaTreeAI/blob/main/TreeDetectron2.png)
 
 ### Access the data
 The Savanna Tree AI baseline dataset is published at [Zenodo](https://doi.org/10.5281/zenodo.7094916). The mosaics are also are published at [Geonadir](https://geonadir.com).
